@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixKkmApp", "FixKkmApp\FixKkmApp.csproj", "{AF82DDF5-2273-491C-B415-4CB9565050FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF82DDF5-2273-491C-B415-4CB9565050FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF82DDF5-2273-491C-B415-4CB9565050FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF82DDF5-2273-491C-B415-4CB9565050FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF82DDF5-2273-491C-B415-4CB9565050FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
